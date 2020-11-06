@@ -8,7 +8,7 @@
 
 For this analysis, I created Python script and analysed the financial records using the data set provided [budget_data.csv](PyBank/Resources/budget_data.csv).  
 
-Below are the requested output:
+Below are the requested output or click on the link:
 [Financial Analysis](https://github.com/PlainJane20/Python-Challenge/blob/main/Analysis/budget_data.txt)
 
 ```text
@@ -28,7 +28,7 @@ Greatest Decrease in Losses:  Sep-2013 ($-2,196,167)
 
 For this PyPoll analysis, I created Python script and analysed the election records using the data set provided [election_data.csv](PyPoll/Resources/election_data.csv). 
 
-Below are the requested output:
+Below are the requested output or click on the link:
 [Election Results](https://github.com/PlainJane20/Python-Challenge/blob/main/Analysis/output_election.txt)
 
 ```text
