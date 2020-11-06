@@ -6,7 +6,7 @@
 ![Revenue](Images/revenue-per-lead.png)
 
 
-For this analysis, I created Python script and analysed the financial records using the data set provided [budget_data.csv](PyBank/Resources/budget_data.csv).  Main data points here are Date and the Profit/Loss.
+For this analysis, I created Python script and analysed the financial records using the data set provided [budget_data.csv](PyBank/Resources/budget_data.csv).  
 
 Below are the requested output:
 [Financial Analysis](https://github.com/PlainJane20/Python-Challenge/blob/main/Analysis/budget_data.txt)
@@ -26,7 +26,7 @@ Greatest Decrease in Losses:  Sep-2013 ($-2,196,167)
 
 ![Vote_Counting](Images/Vote_counting.png)
 
-For this PyPoll analysis, I created Python script and analysed the election records using the data set provided [election_data.csv](PyPoll/Resources/election_data.csv). Here our main three data points are 'Candidate', 'County' and the 'Voter Id'.
+For this PyPoll analysis, I created Python script and analysed the election records using the data set provided [election_data.csv](PyPoll/Resources/election_data.csv). 
 
 Below are the requested output:
 [Election Results](https://github.com/PlainJane20/Python-Challenge/blob/main/Analysis/output_election.txt)
@@ -45,4 +45,4 @@ Below are the requested output:
   Winner: Khan
   -------------------------
   ```
-  # Navi Sohi | Data Science 
+  # Navi Sohi | Data Analytics
