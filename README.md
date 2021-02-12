@@ -45,4 +45,4 @@ Below are the requested output or click on the link:
   Winner: Khan
   -------------------------
   ```
-  # Navi Sohi | Data Analytics & Visualization
+  ### [Navi Sohi](https://github.com/PlainJane20) | Data Analytics & Visualization
